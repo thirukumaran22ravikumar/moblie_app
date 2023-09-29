@@ -1,0 +1,2 @@
+class ThiruController < ApplicationController
+end
